@@ -1,6 +1,6 @@
 
 # WebSite2QRcode
-**chrome插件:将链接装化成二维码的**
+**chrome插件:将当前网址转化成二维码**
 #####说明:
   用的是[Browser Actions](http://open.se.360.cn/open/extension_dev/browseraction.html)实现，用户点击图标,获取当前标签的链接，然后使用[jquery.qrcode.js](https://github.com/jeromeetienne/jquery-qrcode)将链接转成二维码,具体情况可以看我的博客(http://blog.csdn.net/iloster/article/details/44242823)
 ##### 使用方法:
